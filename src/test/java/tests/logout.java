@@ -1,8 +1,8 @@
 package tests;
 
-public class login {
+public class logout {
 
     public static void main(String[] args) {
-        System.out.println("login");
+        System.out.println("logout");
     }
 }
